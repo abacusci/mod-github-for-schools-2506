@@ -1,4 +1,4 @@
-# Github for School Collaboration
+# Github for School Collaboration Jun 2025
 
 Welcome to the training program for GitHub use within De Hoeksteen College.  
 This course is designed to introduce teachers to GitHub as a professional tool for collaboration, reporting, and academic coordination.
